@@ -2,4 +2,4 @@
 
 ![teams](https://user-images.githubusercontent.com/44769373/165075527-b72ff89d-4cca-4b7c-95f1-1d06f16ed2dd.jpg)
 
-[<b>Team-cards on CodePen<b/>] https://codepen.io/natalka-litkovets/pen/eYyaPQE
+[ <b>Team-cards on CodePen<b/> ] https://codepen.io/natalka-litkovets/pen/eYyaPQE
